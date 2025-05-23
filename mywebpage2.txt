@@ -59,8 +59,8 @@ You've just learned the basics of HTML, the language of the web. You can now cre
 <p><img src="https://i.gifer.com/fyIg.gif" alt="GIF" style="width:250px; height:auto;"></p>
 
 <!-- Audio Player -->
-https://pixabay.com/music/future-bass-solar-dream-330894/
-<audio src="https://pixabay.com/music/future-bass-solar-dream-330894/" controls></audio>
+
+<audio src="solar-dream-330894.mp3" controls></audio>
 
 <!-- Personal Info -->
 <p style="font-size:24px;">Name: Adri</p>
