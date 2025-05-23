@@ -1,4 +1,12 @@
 # Your own webpage in 3 minutes
+🌟🎉 Just Launched! 🎉🌟
+Ever wanted to learn HTML in just 3 minutes?
+Join me, an old man with a young heart 💖, and explore how simple web magic can be!
+👉 Visit now: ranisesh.github.io/webpage
+📘 A friendly intro
+👨‍🏫 Guided by real passion
+🚀 Built for beginners of any age
+💡 Start your web journey today — with Rani by your side!
 Starters web design project in 3 minutes!
 Hello, future web creator! Ready to build your very first webpage? Let's do it together.
 
